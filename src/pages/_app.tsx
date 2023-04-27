@@ -1,5 +1,6 @@
 import '@/styles/resets.css'
 import '@/styles/globals.css'
+import '@/styles/swipper.css'
 
 import type { AppProps } from 'next/app'
 

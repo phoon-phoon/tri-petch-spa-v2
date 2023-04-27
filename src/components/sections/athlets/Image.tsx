@@ -11,10 +11,11 @@ interface ImagePropsType {
 const AthletsImage: FC<ImagePropsType> = (props) =>
     <div className='
         absolute 
-        xl:right-[155px]
-        lg:top-[35px] lg:-right-[50px] 
-        md:top-[121px] md:-right-[46px] 
-        sm:top-[70px] sm:right-[70px] 
+        xl:left-[175px]
+        lg:top-[35px] lg:left-[0px] 
+        md:top-[121px] md:-left-[161px] 
+        mts:left-[50%] mts:-translate-x-[50%]
+        sm:top-[70px] sm:left-[70px] 
     '>
         <div className='
             relative

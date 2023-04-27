@@ -1,6 +1,9 @@
+.athlets-swipper, .players-swipper {
+    background-color: #F5F4F9;
+}
+
 .swiper-slide {
-    padding: '72px 1px 69px 19px';
-    height: unset;
+    padding: 72px 1px 69px 0px;
 }
 
 .swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
@@ -20,11 +23,10 @@
     background-color: #5C3CAF;
 }
 
-.player-swipper .swiper-slide {
-    padding: '72px 1px 69px 19px';
-    height: unset;
+.players-swipper .swiper-slide {
+    padding: 72px 1px 69px 0px;
 }
 
-.player-swipper .swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
+.players-swipper .swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
     bottom: 21px;
 }
