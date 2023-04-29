@@ -7,7 +7,7 @@ export const PlayersContents: Array<JSX.Element> = [
             <PlayersGrid>
                 <div className='flex flex-row'>
                     <div className='
-                        mt-[3px] w-[22px] h-[21px] text-[18px] text-[#000] leading-[21.09px] tracking-[1.5px] sm:text-[14px] sm:leading-[16.41px]
+                        mt-[5px] w-[22px] h-[21px] text-[18px] text-[#000] leading-[21.09px] tracking-[1.5px] sm:text-[14px] sm:leading-[16.41px]
                         after:block after:w-[19px] after:h-[5px] after:bg-[#603EBE] after:rounded-[2.5px] after:mt-[4px] sm:after:w-[15px] sm:after:h-[4px] sm:after:mt-[2px]
                     '>01</div>
                     <div className='ml-[10px] sm:ml-[9px]'><TitleContent>CONNECTION</TitleContent></div>
@@ -26,7 +26,7 @@ export const PlayersContents: Array<JSX.Element> = [
             <PlayersGrid>
                 <div className='flex flex-row'>
                     <div className='
-                        mt-[3px] w-[22px] text-[18px] text-[#000] leading-[21.09px] tracking-[1.5px] sm:text-[14px] sm:leading-[16.41px]
+                        mt-[5px] w-[22px] text-[18px] text-[#000] leading-[21.09px] tracking-[1.5px] sm:text-[14px] sm:leading-[16.41px]
                         after:block after:w-[22px] after:h-[5px] after:bg-[#603EBE] after:rounded-[2.5px] after:mt-[4px] sm:after:w-[17px] sm:after:h-[4px] sm:after:mt-[2px]
                     '>02</div>
                     <div className='ml-[10px] sm:ml-[9px]'><TitleContent>COLLABORATION</TitleContent></div>
@@ -45,7 +45,7 @@ export const PlayersContents: Array<JSX.Element> = [
             <PlayersGrid>
                 <div className='flex flex-row'>
                     <div className='
-                        lg:ml-[1px] w-[22px] mt-[3px] text-[18px] text-[#8F6BE8] leading-[21.09px] tracking-[1.5px] sm:text-[#000] sm:text-[14px] sm:leading-[16.41px] 
+                        lg:ml-[1px] w-[22px] mt-[5px] text-[18px] text-[#8F6BE8] leading-[21.09px] tracking-[1.5px] sm:text-[#000] sm:text-[14px] sm:leading-[16.41px] 
                         after:block after:w-[22px] after:h-[5px] after:bg-[#FFF] after:rounded-[2.5px] after:mt-[4px] sm:after:w-[17px] sm:after:h-[4px] sm:after:mt-[2px] sm:after:bg-[#603EBE]
                     '>03</div>
                     <div className='ml-[10px] sm:ml-[9px]'><TitleContent>GROWTH</TitleContent></div>
