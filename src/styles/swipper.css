@@ -11,7 +11,7 @@
     bottom: 21px;
 }
 
-.swiper-pagination-bullet {
+.swiper-pagination-bullets > .swiper-pagination-bullet {
     width: 10px;
     height: 10px;
     margin: 0 6px;
@@ -28,5 +28,5 @@
 }
 
 .players-swipper .swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
-    bottom: 21px;
+    bottom: 20px;
 }

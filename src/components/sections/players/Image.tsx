@@ -15,6 +15,7 @@ const PlayersImage: FC<ImagePropsType> = (props) =>
         xl:right-[125px]
         lg:top-[0px] lg:-right-[85px]
         md:top-[33px] md:-right-[254px]
+        mts:left-[50%] mts:-translate-x-[50%]
         sm:top-[101px] sm:left-[3px]
     '>
         <div className='
